@@ -1,4 +1,4 @@
-<h2> Hello im HONG XUEZHI also known as <a href = "https://discord.com/user/1223790057186660392"> Webdott</a> on my other social platforms </h2>
+<h2> Hello im HONG XUEZHI also known as <a href = "https://discord.com/users/772608444422553601"> Webdott</a> on my other social platforms </h2>
 <img src="https://media.tenor.com/gjTjxUCoP3sAAAAi/jumping-gatito.gif" width="200px" > 
 <h3>🤓 Front end developer with python and Lua experiance 🤓 </h3>
 <h4>React.js 2 years css 2 years markup 2 years </h4></h4>
